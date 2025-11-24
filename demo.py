@@ -1,4 +1,3 @@
-print("2")
 print("1")
 # 配置git
 # 配置github账户
